@@ -1,5 +1,6 @@
+---  
 layout: post
-title: Scraping pga data!
+title: Scraping pga data
 ---
 ## Introduction
 
