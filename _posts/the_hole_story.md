@@ -6,7 +6,7 @@ title: The Hole Story
 
 # Introduction
 
-Today, I am going to creaet a word cloud of golf hole descriptions. In the future, this information could be used to extract some features that could be increase prediction accuracy in some golf outcomes (eg: score, driving accuracy). 
+In this post I am going to create a word cloud of golf hole descriptions. In the future, this information could be used to extract some features that could be used to predict some golf outcomes (eg: score, driving accuracy). 
 
 This post serves two purposes- First, it will contain technical details, like programming scripts, for educational/reproducibility purposes. Second, it won't be too dense that someone who isn't interested in the nuts and bolts won't be restricted from following along.
 
@@ -158,7 +158,7 @@ wordcloud(word_names[1:n], word_freqs[1:n], random.order = T, colors = my_palett
 ```
 
 <div class="figure" style="text-align: center">
-<img src="{{ site.baseurl }}/img/the_hole_story_files/unnamed-chunk-6-1.jpg" alt="Golf hole description word cloud"  />
+<img src="https://github.com/golfRguy/golfRguy.github.io/tree/master/img/the_hole_story_files/unnamed-chunk-6-1.jpg" alt="Golf hole description word cloud"  />
 <p class="caption">Golf hole description word cloud</p>
 </div>
 
@@ -201,7 +201,7 @@ wordcloud(hole_bigrams_count$hole_bigrams, hole_bigrams_count$Freq, min.freq = 2
 ```
 
 <div class="figure" style="text-align: center">
-<img src="{{ site.baseurl }}/img/the_hole_story_files/unnamed-chunk-7-1.jpg" alt="Golf hole bi-gram wordcloud"  />
+<img src="https://github.com/golfRguy/golfRguy.github.io/tree/master/img/the_hole_story_files/unnamed-chunk-7-1.jpg" alt="Golf hole bi-gram wordcloud"  />
 <p class="caption">Golf hole bi-gram wordcloud</p>
 </div>
 
@@ -222,7 +222,7 @@ wordcloud(hole_trigrams_count$hole_trigrams, hole_trigrams_count$Freq, min.freq 
 ```
 
 <div class="figure" style="text-align: center">
-<img src="{{ site.baseurl }}/img/the_hole_story_files/unnamed-chunk-8-1.jpg" alt="Golf hole tri-gram wordcloud"  />
+<img src="https://github.com/golfRguy/golfRguy.github.io/tree/master/img/the_hole_story_files/unnamed-chunk-8-1.jpg" alt="Golf hole tri-gram wordcloud"  />
 <p class="caption">Golf hole tri-gram wordcloud</p>
 </div>
 
