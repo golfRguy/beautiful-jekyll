@@ -2,6 +2,8 @@
 layout: post
 title: Scraping pga data
 ---
+
+
 ## Introduction
 
 In order to begin analyzing some golf data, we are going to need... some golf data. Today I am going to explain how I obtain scorecard data from the PGA tour. 
