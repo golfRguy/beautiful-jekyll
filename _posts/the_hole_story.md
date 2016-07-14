@@ -158,7 +158,7 @@ wordcloud(word_names[1:n], word_freqs[1:n], random.order = T, colors = my_palett
 ```
 
 <div class="figure" style="text-align: center">
-<img src="https://github.com/golfRguy/golfRguy.github.io/tree/master/img/the_hole_story_files/unnamed-chunk-6-1.jpg" alt="Golf hole description word cloud"  />
+<img src="https://github.com/golfRguy/golfRguy.github.io/blob/master/img/the_hole_story_files/unnamed-chunk-6-1.png" alt="Golf hole description word cloud"  />
 <p class="caption">Golf hole description word cloud</p>
 </div>
 
