@@ -201,7 +201,7 @@ wordcloud(hole_bigrams_count$hole_bigrams, hole_bigrams_count$Freq, min.freq = 2
 ```
 
 <div class="figure" style="text-align: center">
-<img src="https://github.com/golfRguy/golfRguy.github.io/tree/master/img/the_hole_story_files/unnamed-chunk-7-1.jpg" alt="Golf hole bi-gram wordcloud"  />
+<img src="https://github.com/golfRguy/golfRguy.github.io/blob/master/img/the_hole_story_files/unnamed-chunk-7-1.png" alt="Golf hole bi-gram wordcloud"  />
 <p class="caption">Golf hole bi-gram wordcloud</p>
 </div>
 
@@ -222,7 +222,7 @@ wordcloud(hole_trigrams_count$hole_trigrams, hole_trigrams_count$Freq, min.freq 
 ```
 
 <div class="figure" style="text-align: center">
-<img src="https://github.com/golfRguy/golfRguy.github.io/tree/master/img/the_hole_story_files/unnamed-chunk-8-1.jpg" alt="Golf hole tri-gram wordcloud"  />
+<img src="https://github.com/golfRguy/golfRguy.github.io/blob/master/img/the_hole_story_files/unnamed-chunk-8-1.png" alt="Golf hole tri-gram wordcloud"  />
 <p class="caption">Golf hole tri-gram wordcloud</p>
 </div>
 
