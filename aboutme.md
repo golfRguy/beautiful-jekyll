@@ -1,11 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Josh Murray. I have the following qualities:
 
-- My dad is strange
-- I'm extremely un-loyal to my family
 
