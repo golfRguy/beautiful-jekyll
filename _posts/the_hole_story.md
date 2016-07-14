@@ -1,5 +1,7 @@
-# The hole story
-
+---
+layout: post
+title: The Hole Story
+---
 
 
 # Introduction
