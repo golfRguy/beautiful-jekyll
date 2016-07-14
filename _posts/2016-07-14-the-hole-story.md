@@ -156,11 +156,7 @@ n <- 50
 set.seed(1225)
 wordcloud(word_names[1:n], word_freqs[1:n], random.order = T, colors = my_palette)
 ```
-
-<div class="figure" style="text-align: center">
-<img src="https://github.com/golfRguy/golfRguy.github.io/blob/master/img/the_hole_story_files/unnamed-chunk-7-1.png" alt="Golf hole description word cloud"  />
-<p class="caption">Golf hole description word cloud</p>
-</div>
+{% include image.html url="/img/the_hole_story_files/unnamed-chunk-7-1.png" description="Golf hole description word cloud" %}
 
 The most frequent word is green (presumably all holes have greens). However, we can already see some useful information. The words "bunker" and "bunkers" appear equally as frequent. Is it important to note that there are lots of bunkers on a hole, or one particular menacing bunker? Second, the words "left"" and "right" have almost identical frequencies. Perhaps these words can help us identify which way a dogleg bends, or where a water hazard is located. 
 
